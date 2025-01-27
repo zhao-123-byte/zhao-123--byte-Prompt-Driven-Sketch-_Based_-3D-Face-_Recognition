@@ -1,1 +1,1 @@
-# Prompt-Driven-Sketch-_Based_-3D-Face-_Recognition
+# Prompt-Driven_Sketch_Based_3D_Face_Recognition
